@@ -9,11 +9,11 @@
       "maxLength": 63,
       "validationRegex": "^[a-z][a-z0-9]{2,62}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": true,
         "useSeparator": false,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -27,11 +27,11 @@
       "maxLength": 50,
       "validationRegex": "^[a-z][a-zA-Z0-9-][a-zA-Z0-9]{0,48}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": false,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -45,11 +45,11 @@
       "maxLength": 50,
       "validationRegex": "^[a-zA-Z0-9_-]{5,50}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -63,11 +63,11 @@
       "maxLength": 64,
       "validationRegex": "^[^%]{0,63}[^ %.]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -81,11 +81,11 @@
       "maxLength": 64,
       "validationRegex": "^[^%]{0,63}[^ %.]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -99,11 +99,11 @@
       "maxLength": 50,
       "validationRegex": "^[a-zA-Z][a-zA-Z0-9-]{4,48}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -117,11 +117,11 @@
       "maxLength": 128,
       "validationRegex": "^[^<>*%:.?+/]{0,127}[^<>*%:.?+/ ]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -135,11 +135,11 @@
       "maxLength": 128,
       "validationRegex": "^[^<>*%:.?+/]{0,127}[^<>*%:.?+/ ]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -153,11 +153,11 @@
       "maxLength": 63,
       "validationRegex": "^[a-zA-Z][a-zA-Z0-9-]{0,62}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -171,11 +171,11 @@
       "maxLength": 128,
       "validationRegex": "^[^<>*%:.?+/]{0,127}[^<>*%:.?+/ ]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -189,11 +189,11 @@
       "maxLength": 128,
       "validationRegex": "^[^<>*%:.?+/]{0,127}[^<>*%:.?+/ ]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -207,11 +207,11 @@
       "maxLength": 63,
       "validationRegex": "^[a-zA-Z0-9_-]{1,64}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -225,11 +225,11 @@
       "maxLength": 24,
       "validationRegex": "^[a-z0-9]{3,24}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": true,
         "useSeparator": false,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -243,11 +243,11 @@
       "maxLength": 64,
       "validationRegex": "^[a-zA-Z0-9_-]{1,64}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -261,11 +261,11 @@
       "maxLength": 45,
       "validationRegex": "^[a-zA-Z0-9_-]{5,45}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -279,11 +279,11 @@
       "maxLength": 24,
       "validationRegex": "^[a-zA-Z0-9_-]{1,24}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -297,11 +297,11 @@
       "maxLength": 64,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-_.]{1,63}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -315,11 +315,11 @@
       "maxLength": 64,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-_.]{1,63}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -333,11 +333,11 @@
       "maxLength": 64,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-_.]{1,63}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -351,11 +351,11 @@
       "maxLength": 64,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-_.]{1,63}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -369,11 +369,11 @@
       "maxLength": 64,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-_.]{1,63}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -387,11 +387,11 @@
       "maxLength": 64,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-_.]{1,63}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -405,11 +405,11 @@
       "maxLength": 64,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-_.]{1,63}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -423,11 +423,11 @@
       "maxLength": 63,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-]{0,61}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": true,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": true,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -441,11 +441,11 @@
       "maxLength": 256,
       "validationRegex": "^[a-zA-Z0-9]{1,256}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": false,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -459,11 +459,11 @@
       "maxLength": 64,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-]{0,63}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -477,11 +477,11 @@
       "maxLength": 64,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-]{0,63}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -495,11 +495,11 @@
       "maxLength": 64,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-]{0,63}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -513,11 +513,11 @@
       "maxLength": 260,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-]{0,258}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -531,11 +531,11 @@
       "maxLength": 50,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-]{0,48}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -549,11 +549,11 @@
       "maxLength": 64,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-]{0,63}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -567,11 +567,11 @@
       "maxLength": 64,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-]{0,63}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -585,11 +585,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-_.]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -603,11 +603,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9_]{1,80}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -621,11 +621,11 @@
       "maxLength": 64,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-]{0,63}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -639,11 +639,11 @@
       "maxLength": 64,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-]{0,63}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -657,11 +657,11 @@
       "maxLength": 64,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-]{0,63}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -675,11 +675,11 @@
       "maxLength": 64,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-]{0,63}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -693,11 +693,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-_.]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -711,11 +711,11 @@
       "maxLength": 64,
       "validationRegex": "",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -729,11 +729,11 @@
       "maxLength": 64,
       "validationRegex": "^[^/[]:|<>+=;,?*@&_][^/[]:|<>+=;,?*@&]{0,62}[^/[]:|<>+=;,?*@&.-]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -747,11 +747,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9-_]{1,80}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -765,15 +765,15 @@
       "maxLength": 15,
       "validationRegex": "",
       "configuration": {
-        "useEnvironment": true,
-        "useLowerCase": false,
-        "useSeparator": true,
         "denyDoubleHyphens": false,
         "namePrecedence": [
           "abbreviationes",
           "name",
           "suffixes"
         ],
+        "useEnvironment": true,
+        "useLowerCase": false,
+        "useSeparator": true,
         "useUpperCase": false
       },
       "deprecated": false,
@@ -787,11 +787,11 @@
       "maxLength": 15,
       "validationRegex": "^[^/[]:|<>+=;,?*@&_][^/[]:|<>+=;,?*@&]{0,13}[^/[]:|<>+=;,?*@&.-]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -805,11 +805,11 @@
       "maxLength": 15,
       "validationRegex": "^[a-zA-Z0-9-_]{1,15}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -823,11 +823,11 @@
       "maxLength": 15,
       "validationRegex": "^[^/[]:|<>+=;,?*@&_][^/[]:|<>+=;,?*@&]{0,13}[^/[]:|<>+=;,?*@&.-]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -841,11 +841,11 @@
       "maxLength": 63,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-]{0,61}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": true,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": true,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -859,11 +859,11 @@
       "maxLength": 63,
       "validationRegex": "^[a-zA-Z0-9]{1,63}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": true,
         "useSeparator": false,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -877,11 +877,11 @@
       "maxLength": 50,
       "validationRegex": "^[a-zA-Z0-9]{1,50}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": false,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -895,11 +895,11 @@
       "maxLength": 63,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-_]{0,61}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -913,11 +913,11 @@
       "maxLength": 12,
       "validationRegex": "^[a-z][a-z0-9]{0,11}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": false,
         "useLowerCase": true,
         "useSeparator": false,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -931,11 +931,11 @@
       "maxLength": 63,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-_]{0,61}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": false,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -949,11 +949,11 @@
       "maxLength": 63,
       "validationRegex": "^[a-z0-9][a-z0-9-]{0,61}[a-z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": false,
         "useLowerCase": true,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -967,11 +967,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-_]{0,78}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": false,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -985,11 +985,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-_]{0,78}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": false,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1003,11 +1003,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-_]{0,78}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": false,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1021,11 +1021,11 @@
       "maxLength": 63,
       "validationRegex": "^[a-z0-9][a-zA-Z0-9-_.]{0,61}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1039,11 +1039,11 @@
       "maxLength": 64,
       "validationRegex": "^[^&%?/]{2,63}[^&%.?/ ]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1057,11 +1057,11 @@
       "maxLength": 63,
       "validationRegex": "^[a-z0-9][a-zA-Z0-9-]{1,61}[a-z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1075,11 +1075,11 @@
       "maxLength": 128,
       "validationRegex": "^[a-zA-Z0-9-_]{1,128}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1093,11 +1093,11 @@
       "maxLength": 63,
       "validationRegex": "^[a-zA-Z0-9-_]{1,63}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1111,11 +1111,11 @@
       "maxLength": 128,
       "validationRegex": "^[a-zA-Z0-9-_]{1,128}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1129,11 +1129,11 @@
       "maxLength": 63,
       "validationRegex": "^[a-z0-9][a-zA-Z0-9-]{1,61}[a-z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1147,11 +1147,11 @@
       "maxLength": 128,
       "validationRegex": "^[a-zA-Z0-9-_]{1,128}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1165,11 +1165,11 @@
       "maxLength": 63,
       "validationRegex": "^[a-zA-Z0-9-_]{1,63}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1183,11 +1183,11 @@
       "maxLength": 128,
       "validationRegex": "^[a-zA-Z0-9-_]{1,128}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1201,11 +1201,11 @@
       "maxLength": 63,
       "validationRegex": "^[a-z0-9][a-zA-Z0-9-]{1,61}[a-z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1219,11 +1219,11 @@
       "maxLength": 128,
       "validationRegex": "^[a-zA-Z0-9-_]{1,128}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1237,11 +1237,11 @@
       "maxLength": 63,
       "validationRegex": "^[a-zA-Z0-9-_]{1,63}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1255,11 +1255,11 @@
       "maxLength": 128,
       "validationRegex": "^[a-zA-Z0-9-_]{1,128}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1273,11 +1273,11 @@
       "maxLength": 57,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-_.]{1,56}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1291,11 +1291,11 @@
       "maxLength": 62,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-_.]{1,61}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1309,11 +1309,11 @@
       "maxLength": 30,
       "validationRegex": "^[a-zA-Z0-9-_]{3,30}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1327,11 +1327,11 @@
       "maxLength": 22,
       "validationRegex": "^[a-z][a-z0-9]{3,21}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": false,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1345,11 +1345,11 @@
       "maxLength": 260,
       "validationRegex": "^[a-zA-Z0-9- .]{1,260}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1363,11 +1363,11 @@
       "maxLength": 40,
       "validationRegex": "^[a-zA-Z0-9- .]{1,40}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1381,11 +1381,11 @@
       "maxLength": 63,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-]{1,61}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1399,11 +1399,11 @@
       "maxLength": 260,
       "validationRegex": "^[a-zA-Z0-9][^<>*%:.?+/]{0,258}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1417,11 +1417,11 @@
       "maxLength": 260,
       "validationRegex": "^[a-zA-Z0-9][^<>*%:.?+/]{0,258}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1435,11 +1435,11 @@
       "maxLength": 260,
       "validationRegex": "^[a-zA-Z0-9][^<>*%:.?+/]{0,258}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1453,11 +1453,11 @@
       "maxLength": 63,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-]{1,61}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1471,11 +1471,11 @@
       "maxLength": 260,
       "validationRegex": "^[a-zA-Z0-9][^<>*%:.?+/]{0,258}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1489,11 +1489,11 @@
       "maxLength": 260,
       "validationRegex": "^[a-zA-Z0-9][^<>*%:.?+/]{0,259}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1507,11 +1507,11 @@
       "maxLength": 260,
       "validationRegex": "^[a-zA-Z0-9][^<>*%:.?+/]{0,259}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1525,11 +1525,11 @@
       "maxLength": 50,
       "validationRegex": "^[a-zA-Z][a-zA-Z0-9-]{1,49}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1543,11 +1543,11 @@
       "maxLength": 150,
       "validationRegex": "^[a-zA-Z][a-zA-Z0-9-]{1,148}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1561,11 +1561,11 @@
       "maxLength": 260,
       "validationRegex": "^[a-zA-Z0-9][^<>*%:.?+/]{0,259}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1579,11 +1579,11 @@
       "maxLength": 260,
       "validationRegex": "^[a-zA-Z0-9][^<>*%:.?+/]{0,259}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1597,11 +1597,11 @@
       "maxLength": 260,
       "validationRegex": "^[a-zA-Z0-9][^<>*%:.?+/]{0,259}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1615,11 +1615,11 @@
       "maxLength": 260,
       "validationRegex": "^[a-zA-Z0-9][^<>*%:.?+/]{0,259}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1633,11 +1633,11 @@
       "maxLength": 24,
       "validationRegex": "^[a-z0-9]{3,24}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": false,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1651,11 +1651,11 @@
       "maxLength": 50,
       "validationRegex": "^[a-z0-9-_]{3,50}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1669,11 +1669,11 @@
       "maxLength": 24,
       "validationRegex": "^[a-z0-9]{3,24}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": false,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1687,11 +1687,11 @@
       "maxLength": 50,
       "validationRegex": "^[a-zA-Z0-9-_]{3,50}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1705,11 +1705,11 @@
       "maxLength": 50,
       "validationRegex": "^[a-zA-Z0-9-_]{1,50}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1723,11 +1723,11 @@
       "maxLength": 64,
       "validationRegex": "^[a-zA-Z0-9-]{1,64}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1741,11 +1741,11 @@
       "maxLength": 15,
       "validationRegex": "^[a-zA-Z0-9-]{1,15}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1759,11 +1759,11 @@
       "maxLength": 64,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-]{3,62}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1777,11 +1777,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1795,11 +1795,11 @@
       "maxLength": 59,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-]{1,57}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1813,11 +1813,11 @@
       "maxLength": 59,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-]{1,57}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1831,11 +1831,11 @@
       "maxLength": 59,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-]{1,57}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1849,11 +1849,11 @@
       "maxLength": 59,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-]{1,57}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1867,11 +1867,11 @@
       "maxLength": 59,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-]{1,57}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1885,11 +1885,11 @@
       "maxLength": 59,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-]{1,57}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1903,11 +1903,11 @@
       "maxLength": 59,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-]{1,57}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1921,11 +1921,11 @@
       "maxLength": 59,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-]{1,57}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1939,11 +1939,11 @@
       "maxLength": 63,
       "validationRegex": "^[a-z0-9][a-z0-9-]{0,61}[a-z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": true,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1957,11 +1957,11 @@
       "maxLength": 50,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-]{1,48}[a-z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1975,11 +1975,11 @@
       "maxLength": 50,
       "validationRegex": "^[a-zA-Z0-9-._]{1,50}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -1993,11 +1993,11 @@
       "maxLength": 64,
       "validationRegex": "^[a-zA-Z0-9-]{1,63}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2011,11 +2011,11 @@
       "maxLength": 64,
       "validationRegex": "^[a-zA-Z0-9-._]{1,64}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2029,11 +2029,11 @@
       "maxLength": 24,
       "validationRegex": "^[a-zA-Z][a-zA-Z0-9-]{1,22}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": true,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": true,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2047,11 +2047,11 @@
       "maxLength": 127,
       "validationRegex": "^[a-zA-Z0-9-]{1,127}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2065,11 +2065,11 @@
       "maxLength": 127,
       "validationRegex": "^[a-zA-Z0-9-]{1,127}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2083,11 +2083,11 @@
       "maxLength": 127,
       "validationRegex": "^[a-zA-Z0-9-]{1,127}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2101,11 +2101,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2119,11 +2119,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2137,11 +2137,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2155,11 +2155,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2173,11 +2173,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2191,11 +2191,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2209,11 +2209,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2227,11 +2227,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2245,11 +2245,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2263,11 +2263,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2281,14 +2281,14 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
-        "useEnvironment": true,
-        "useLowerCase": false,
-        "useSeparator": true,
         "denyDoubleHyphens": false,
         "namePrecedence": [
           "abbreviation",
           "name"
         ],
+        "useEnvironment": true,
+        "useLowerCase": false,
+        "useSeparator": true,
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2302,11 +2302,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2320,11 +2320,11 @@
       "maxLength": 63,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-.]{0,61}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2338,15 +2338,15 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
-        "useEnvironment": true,
-        "useLowerCase": false,
-        "useSeparator": true,
         "denyDoubleHyphens": false,
         "namePrecedence": [
           "abbreviation",
           "location",
           "environment"
         ],
+        "useEnvironment": true,
+        "useLowerCase": false,
+        "useSeparator": true,
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2360,9 +2360,6 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
-        "useEnvironment": true,
-        "useLowerCase": false,
-        "useSeparator": true,
         "denyDoubleHyphens": false,
         "namePrecedence": [
           "abbreviation",
@@ -2371,6 +2368,9 @@
           "environment",
           "suffixes"
         ],
+        "useEnvironment": true,
+        "useLowerCase": false,
+        "useSeparator": true,
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2384,11 +2384,11 @@
       "maxLength": 64,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,62}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2402,11 +2402,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2420,11 +2420,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2438,11 +2438,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2456,9 +2456,6 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
-        "useEnvironment": true,
-        "useLowerCase": false,
-        "useSeparator": true,
         "denyDoubleHyphens": false,
         "namePrecedence": [
           "abbreviation",
@@ -2467,6 +2464,9 @@
           "environment",
           "suffixes"
         ],
+        "useEnvironment": true,
+        "useLowerCase": false,
+        "useSeparator": true,
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2480,11 +2480,11 @@
       "maxLength": 50,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,48}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2498,11 +2498,11 @@
       "maxLength": 50,
       "validationRegex": "^[a-zA-Z][a-zA-Z0-9-]{0,48}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2516,11 +2516,11 @@
       "maxLength": 50,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,48}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2534,11 +2534,11 @@
       "maxLength": 50,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,48}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2552,11 +2552,11 @@
       "maxLength": 50,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,48}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2570,11 +2570,11 @@
       "maxLength": 50,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,48}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2588,11 +2588,11 @@
       "maxLength": 63,
       "validationRegex": "^[a-zA-Z0-9-_]{3,63}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2606,11 +2606,11 @@
       "maxLength": 63,
       "validationRegex": "^[a-zA-Z0-9-_]{3,63}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2624,11 +2624,11 @@
       "maxLength": 63,
       "validationRegex": "^[a-zA-Z0-9-_]{3,63}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2642,11 +2642,11 @@
       "maxLength": 63,
       "validationRegex": "^[a-zA-Z0-9-_]{3,63}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2660,11 +2660,11 @@
       "maxLength": 63,
       "validationRegex": "^[a-zA-Z0-9-_]{3,63}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2678,11 +2678,11 @@
       "maxLength": 63,
       "validationRegex": "^[a-zA-Z0-9-_]{3,63}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2696,11 +2696,11 @@
       "maxLength": 63,
       "validationRegex": "^[a-zA-Z0-9-_]{3,63}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2714,11 +2714,11 @@
       "maxLength": 63,
       "validationRegex": "^[a-zA-Z0-9-_]{3,63}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2732,11 +2732,11 @@
       "maxLength": 63,
       "validationRegex": "^[a-zA-Z0-9-_]{3,63}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2750,11 +2750,11 @@
       "maxLength": 63,
       "validationRegex": "^[a-zA-Z0-9-_]{3,63}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2768,11 +2768,11 @@
       "maxLength": 63,
       "validationRegex": "^[a-zA-Z0-9-_]{3,63}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2786,11 +2786,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9.]{0,78}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": false,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2804,11 +2804,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2822,11 +2822,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9.]{0,78}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": false,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2840,11 +2840,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9.]{0,78}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": false,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2858,11 +2858,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2876,11 +2876,11 @@
       "maxLength": 24,
       "validationRegex": "^[a-z0-9]{3,24}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": true,
         "useSeparator": false,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2894,11 +2894,11 @@
       "maxLength": 63,
       "validationRegex": "^[a-z0-9][a-z0-9-]{2,62}$",
       "configuration": {
+        "denyDoubleHyphens": true,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": true,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2912,11 +2912,11 @@
       "maxLength": 63,
       "validationRegex": "^[a-z0-9][a-z0-9-]{1,61}[a-z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": true,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": true,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2930,11 +2930,11 @@
       "maxLength": 63,
       "validationRegex": "^[a-z0-9][a-z0-9-]{1,61}[a-z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": true,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": true,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2948,11 +2948,11 @@
       "maxLength": 63,
       "validationRegex": "^[a-z0-9][a-z0-9-]{1,61}[a-z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": true,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": true,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2966,11 +2966,11 @@
       "maxLength": 63,
       "validationRegex": "^[a-z0-9][a-z0-9-]{1,61}[a-z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": true,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": true,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -2984,11 +2984,11 @@
       "maxLength": 63,
       "validationRegex": "^[a-z0-9][a-z0-9-]{1,61}[a-z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": true,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": true,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3002,11 +3002,11 @@
       "maxLength": 260,
       "validationRegex": "^[^<>*%:.?+/]{0,259}[^<>*%:.?+/ ]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3020,11 +3020,11 @@
       "maxLength": 1024,
       "validationRegex": "^[^s/$#&]{1,1000}[^s/$#&]{0,24}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3038,11 +3038,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3056,11 +3056,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3074,11 +3074,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3092,11 +3092,11 @@
       "maxLength": 128,
       "validationRegex": "^[a-zA-Z0-9-_]{1,127}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3110,9 +3110,6 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
-        "useEnvironment": true,
-        "useLowerCase": false,
-        "useSeparator": true,
         "denyDoubleHyphens": false,
         "namePrecedence": [
           "abbreviation",
@@ -3121,6 +3118,9 @@
           "environment",
           "suffixes"
         ],
+        "useEnvironment": true,
+        "useLowerCase": false,
+        "useSeparator": true,
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3134,14 +3134,14 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
-        "useEnvironment": true,
-        "useLowerCase": false,
-        "useSeparator": true,
         "denyDoubleHyphens": false,
         "namePrecedence": [
           "abbreviation",
           "name"
         ],
+        "useEnvironment": true,
+        "useLowerCase": false,
+        "useSeparator": true,
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3155,11 +3155,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3173,14 +3173,14 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
-        "useEnvironment": true,
-        "useLowerCase": false,
-        "useSeparator": true,
         "denyDoubleHyphens": false,
         "namePrecedence": [
           "abbreviation",
           "name"
         ],
+        "useEnvironment": true,
+        "useLowerCase": false,
+        "useSeparator": true,
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3194,11 +3194,11 @@
       "maxLength": 64,
       "validationRegex": "^[a-zA-Z0-9-._()]{1,64}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3212,11 +3212,11 @@
       "maxLength": 63,
       "validationRegex": "^[a-z0-9][a-z0-9-]{0,61}[a-z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": true,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3230,11 +3230,11 @@
       "maxLength": 63,
       "validationRegex": "^[a-z0-9][a-z0-9-]{0,61}[a-z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": true,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3248,11 +3248,11 @@
       "maxLength": 128,
       "validationRegex": "^[^<>*%:.?+/]{1,127}[^<>*%:.?+/ ]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3266,11 +3266,11 @@
       "maxLength": 128,
       "validationRegex": "^[^<>*%:.?+/]{1,127}[^<>*%:.?+/ ]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3284,11 +3284,11 @@
       "maxLength": 128,
       "validationRegex": "^[^<>*%:.?+/]{1,127}[^<>*%:.?+/ ]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3302,11 +3302,11 @@
       "maxLength": 128,
       "validationRegex": "^[^<>*%:.?+/]{1,127}[^<>*%:.?+/ ]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3320,11 +3320,11 @@
       "maxLength": 128,
       "validationRegex": "^[^<>*%:.?+/]{1,127}[^<>*%:.?+/ ]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3338,11 +3338,11 @@
       "maxLength": 128,
       "validationRegex": "^[^<>*%:.?+/]{1,127}[^<>*%:.?+/ ]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3356,11 +3356,11 @@
       "maxLength": 128,
       "validationRegex": "^[^<>*%:.?+/]{1,127}[^<>*%:.?+/ ]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3374,11 +3374,11 @@
       "maxLength": 128,
       "validationRegex": "^[^<>*%:.?+/]{1,127}[^<>*%:.?+/ ]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3392,11 +3392,11 @@
       "maxLength": 128,
       "validationRegex": "^[^<>*%:.?+/]{1,127}[^<>*%:.?+/ ]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3410,11 +3410,11 @@
       "maxLength": 63,
       "validationRegex": "^[a-z0-9][a-z0-9-]{0,61}[a-z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": true,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3428,11 +3428,11 @@
       "maxLength": 128,
       "validationRegex": "^[^<>*%:?+/]{1,127}[^<>*%:.?+/]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3446,11 +3446,11 @@
       "maxLength": 63,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-]{2,61}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3464,11 +3464,11 @@
       "maxLength": 23,
       "validationRegex": "^[a-z][a-z0-9-]{2,21}[a-z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": true,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3482,11 +3482,11 @@
       "maxLength": 98,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,97}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3500,11 +3500,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3518,11 +3518,11 @@
       "maxLength": 90,
       "validationRegex": "^[a-zA-Z0-9-._()]{0,89}[a-zA-Z0-9-_()]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3536,14 +3536,14 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
-        "useEnvironment": true,
-        "useLowerCase": false,
-        "useSeparator": true,
         "denyDoubleHyphens": false,
         "namePrecedence": [
           "abbreviation",
           "name"
         ],
+        "useEnvironment": true,
+        "useLowerCase": false,
+        "useSeparator": true,
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3557,11 +3557,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3575,11 +3575,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3593,11 +3593,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3611,11 +3611,11 @@
       "maxLength": 63,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,61}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3629,11 +3629,11 @@
       "maxLength": 63,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,61}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3647,11 +3647,11 @@
       "maxLength": 260,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,259}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3665,11 +3665,11 @@
       "maxLength": 50,
       "validationRegex": "^[a-zA-Z][a-zA-Z0-9-]{4,48}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3683,11 +3683,11 @@
       "maxLength": 256,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,255}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3701,11 +3701,11 @@
       "maxLength": 50,
       "validationRegex": "^[a-zA-Z][a-zA-Z0-9-]{4,48}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3719,11 +3719,11 @@
       "maxLength": 50,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,48}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3737,11 +3737,11 @@
       "maxLength": 260,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,258}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3755,11 +3755,11 @@
       "maxLength": 50,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,48}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3773,11 +3773,11 @@
       "maxLength": 50,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,48}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3791,11 +3791,11 @@
       "maxLength": 50,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,48}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3809,11 +3809,11 @@
       "maxLength": 260,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,258}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3827,11 +3827,11 @@
       "maxLength": 50,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,48}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3845,11 +3845,11 @@
       "maxLength": 63,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-]{2,62}$",
       "configuration": {
+        "denyDoubleHyphens": true,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": true,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3863,11 +3863,11 @@
       "maxLength": 160,
       "validationRegex": "^[a-zA-Z0-9-]{3,160}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3881,11 +3881,11 @@
       "maxLength": 63,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-]{1,61}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3899,11 +3899,11 @@
       "maxLength": 50,
       "validationRegex": "^[a-zA-Z0-9-]{3,50}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3917,11 +3917,11 @@
       "maxLength": 50,
       "validationRegex": "^[a-zA-Z0-9-]{3,50}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3935,11 +3935,11 @@
       "maxLength": 64,
       "validationRegex": "^[a-zA-Z0-9-]{3,64}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3953,11 +3953,11 @@
       "maxLength": 50,
       "validationRegex": "^[a-zA-Z0-9-]{3,50}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3971,11 +3971,11 @@
       "maxLength": 50,
       "validationRegex": "^[a-zA-Z][a-zA-Z0-9-]{4,48}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -3989,11 +3989,11 @@
       "maxLength": 260,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,258}[a-zA-Z0-9]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4007,11 +4007,11 @@
       "maxLength": 60,
       "validationRegex": "^[0-9A-Za-z][0-9A-Za-z-]{0,58}[0-9a-zA-Z]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4025,11 +4025,11 @@
       "maxLength": 60,
       "validationRegex": "^[0-9A-Za-z][0-9A-Za-z-]{0,58}[0-9a-zA-Z]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4043,11 +4043,11 @@
       "maxLength": 40,
       "validationRegex": "^[0-9A-Za-z-]{1,40}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4061,11 +4061,11 @@
       "maxLength": 36,
       "validationRegex": "^[0-9A-Za-z-]{2,36}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4079,11 +4079,11 @@
       "maxLength": 260,
       "validationRegex": "^[^%&?/. ][^%&?/]{0,258}[^%&?/. ]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4097,11 +4097,11 @@
       "maxLength": 12,
       "validationRegex": "^[a-z][0-9a-z]{0,11}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": false,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4115,11 +4115,11 @@
       "maxLength": 6,
       "validationRegex": "^[a-z][0-9a-z]{0,5}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": false,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4133,11 +4133,11 @@
       "maxLength": 45,
       "validationRegex": "^[0-9a-z]{1,45}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": true,
         "useSeparator": false,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4151,11 +4151,11 @@
       "maxLength": 15,
       "validationRegex": "^[0-9a-zA-Z]{1,15}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": true,
         "useSeparator": false,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4169,11 +4169,11 @@
       "maxLength": 15,
       "validationRegex": "^[0-9a-zA-Z]{1,15}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": true,
         "useSeparator": false,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4187,11 +4187,11 @@
       "maxLength": 128,
       "validationRegex": "^[^<>*%:?+/]{1,127}[^<>*%:.?+/]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4205,11 +4205,11 @@
       "maxLength": 128,
       "validationRegex": "^[0-9a-zA-Z_-]{3,128}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": true,
         "useSeparator": false,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4223,11 +4223,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4241,11 +4241,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4259,11 +4259,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4277,11 +4277,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4295,11 +4295,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4313,11 +4313,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4331,11 +4331,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4349,11 +4349,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4367,11 +4367,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4385,11 +4385,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4403,11 +4403,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4421,11 +4421,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4439,11 +4439,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4457,11 +4457,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4475,11 +4475,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4493,11 +4493,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4511,11 +4511,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4529,11 +4529,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4547,11 +4547,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4565,11 +4565,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4583,11 +4583,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4601,11 +4601,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4619,11 +4619,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4637,11 +4637,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4655,11 +4655,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4673,11 +4673,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4691,11 +4691,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4709,11 +4709,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4727,11 +4727,11 @@
       "maxLength": 260,
       "validationRegex": "^[a-zA-Z0-9 ][a-zA-Z0-9-._ ]{0,258}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4745,9 +4745,6 @@
       "maxLength": 260,
       "validationRegex": "^[a-zA-Z0-9 ][a-zA-Z0-9-._ ]{0,258}[a-zA-Z0-9_]$",
       "configuration": {
-        "useEnvironment": true,
-        "useLowerCase": false,
-        "useSeparator": true,
         "denyDoubleHyphens": false,
         "namePrecedence": [
           "prefixes",
@@ -4756,6 +4753,9 @@
           "environment",
           "suffixes"
         ],
+        "useEnvironment": true,
+        "useLowerCase": false,
+        "useSeparator": true,
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4769,9 +4769,6 @@
       "maxLength": 260,
       "validationRegex": "^[a-zA-Z0-9 ][a-zA-Z0-9-._ ]{0,258}[a-zA-Z0-9_]$",
       "configuration": {
-        "useEnvironment": true,
-        "useLowerCase": false,
-        "useSeparator": true,
         "denyDoubleHyphens": false,
         "namePrecedence": [
           "prefixes",
@@ -4780,6 +4777,9 @@
           "environment",
           "suffixes"
         ],
+        "useEnvironment": true,
+        "useLowerCase": false,
+        "useSeparator": true,
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4793,9 +4793,6 @@
       "maxLength": 260,
       "validationRegex": "^[a-zA-Z0-9 ][a-zA-Z0-9-._ ]{0,258}[a-zA-Z0-9_]$",
       "configuration": {
-        "useEnvironment": true,
-        "useLowerCase": false,
-        "useSeparator": true,
         "denyDoubleHyphens": false,
         "namePrecedence": [
           "prefixes",
@@ -4804,6 +4801,9 @@
           "environment",
           "suffixes"
         ],
+        "useEnvironment": true,
+        "useLowerCase": false,
+        "useSeparator": true,
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4817,9 +4817,6 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9 ][a-zA-Z0-9-._ ]{0,258}[a-zA-Z0-9_]$",
       "configuration": {
-        "useEnvironment": true,
-        "useLowerCase": false,
-        "useSeparator": true,
         "denyDoubleHyphens": false,
         "namePrecedence": [
           "prefixes",
@@ -4828,6 +4825,9 @@
           "environment",
           "suffixes"
         ],
+        "useEnvironment": true,
+        "useLowerCase": false,
+        "useSeparator": true,
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4841,11 +4841,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9 ][a-zA-Z0-9-._ ]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4859,11 +4859,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9 ][a-zA-Z0-9-._ ]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4877,11 +4877,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9 ][a-zA-Z0-9-._ ]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4895,11 +4895,11 @@
       "maxLength": 80,
       "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4913,11 +4913,11 @@
       "maxLength": 30,
       "validationRegex": "^[a-zA-Z0-9-_]{3,30}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4931,11 +4931,11 @@
       "maxLength": 30,
       "validationRegex": "^[a-zA-Z0-9-_]{3,30}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4949,11 +4949,11 @@
       "maxLength": 30,
       "validationRegex": "^[a-zA-Z0-9-_]{3,30}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4967,11 +4967,11 @@
       "maxLength": 250,
       "validationRegex": "^[a-zA-Z0-9-_]{1,250}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -4985,11 +4985,11 @@
       "maxLength": 250,
       "validationRegex": "^[a-z]{1,250}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": true,
         "useSeparator": false,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -5003,11 +5003,11 @@
       "maxLength": 64,
       "validationRegex": "^[a-zA-Z0-9-]{1,64}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -5021,11 +5021,11 @@
       "maxLength": 64,
       "validationRegex": "^[a-zA-Z0-9-]{1,64}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -5039,11 +5039,11 @@
       "maxLength": 64,
       "validationRegex": "^[a-zA-Z0-9-]{1,64}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -5057,11 +5057,11 @@
       "maxLength": 63,
       "validationRegex": "^[a-zA-Z0-9-]{1,63}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": true,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -5075,11 +5075,11 @@
       "maxLength": 32,
       "validationRegex": "^[a-zA-Z0-9-]{2,32}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": true,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -5093,11 +5093,11 @@
       "maxLength": 32,
       "validationRegex": "^[a-zA-Z0-9-]{2,32}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": true,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -5111,11 +5111,11 @@
       "maxLength": 63,
       "validationRegex": "^[a-zA-Z0-9-]{1,63}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": true,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
@@ -5129,11 +5129,11 @@
       "maxLength": 64,
       "validationRegex": "^[a-zA-Z0-9-._]{1,64}$",
       "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
         "useEnvironment": true,
         "useLowerCase": false,
         "useSeparator": true,
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
         "useUpperCase": false
       },
       "deprecated": false,
