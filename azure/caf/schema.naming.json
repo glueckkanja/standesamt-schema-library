@@ -13,7 +13,8 @@
         "useLowerCase": true,
         "useSeparator": false,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -30,7 +31,8 @@
         "useLowerCase": false,
         "useSeparator": false,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -47,7 +49,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -64,7 +67,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -81,7 +85,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -98,7 +103,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -115,7 +121,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -132,7 +139,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -149,7 +157,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -166,7 +175,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -183,7 +193,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -200,7 +211,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -217,7 +229,8 @@
         "useLowerCase": true,
         "useSeparator": false,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -234,7 +247,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -251,7 +265,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -268,7 +283,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -285,7 +301,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -302,7 +319,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -319,7 +337,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -336,7 +355,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -353,7 +373,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -370,7 +391,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -387,7 +409,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -404,7 +427,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": true,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -421,7 +445,8 @@
         "useLowerCase": false,
         "useSeparator": false,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -438,7 +463,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -455,7 +481,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -472,7 +499,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -489,7 +517,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -506,7 +535,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -523,7 +553,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -540,7 +571,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -557,7 +589,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -574,7 +607,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -591,7 +625,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -608,7 +643,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -625,7 +661,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -642,7 +679,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -659,7 +697,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -676,7 +715,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -693,7 +733,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -710,7 +751,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -731,7 +773,8 @@
           "abbreviationes",
           "name",
           "suffixes"
-        ]
+        ],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -748,7 +791,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -765,7 +809,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -782,7 +827,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -799,7 +845,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": true,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -816,7 +863,8 @@
         "useLowerCase": true,
         "useSeparator": false,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -833,7 +881,8 @@
         "useLowerCase": false,
         "useSeparator": false,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -850,7 +899,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -867,7 +917,8 @@
         "useLowerCase": true,
         "useSeparator": false,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -884,7 +935,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -901,7 +953,8 @@
         "useLowerCase": true,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -918,7 +971,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -935,7 +989,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -952,7 +1007,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -969,7 +1025,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -986,7 +1043,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1003,7 +1061,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1020,7 +1079,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1037,7 +1097,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1054,7 +1115,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1071,7 +1133,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1088,7 +1151,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1105,7 +1169,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1122,7 +1187,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1139,7 +1205,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1156,7 +1223,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1173,7 +1241,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1190,7 +1259,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1207,7 +1277,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1224,7 +1295,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1241,7 +1313,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1258,7 +1331,8 @@
         "useLowerCase": false,
         "useSeparator": false,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1275,7 +1349,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1292,7 +1367,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1309,7 +1385,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1326,7 +1403,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1343,7 +1421,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1360,7 +1439,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1377,7 +1457,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1394,7 +1475,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1411,7 +1493,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1428,7 +1511,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1445,7 +1529,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1462,7 +1547,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1479,7 +1565,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1496,7 +1583,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1513,7 +1601,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1530,7 +1619,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1547,7 +1637,8 @@
         "useLowerCase": false,
         "useSeparator": false,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1564,7 +1655,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1581,7 +1673,8 @@
         "useLowerCase": false,
         "useSeparator": false,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1598,7 +1691,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1615,7 +1709,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1632,7 +1727,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1649,7 +1745,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1666,7 +1763,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1683,7 +1781,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1700,7 +1799,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1717,7 +1817,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1734,7 +1835,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1751,7 +1853,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1768,7 +1871,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1785,7 +1889,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1802,7 +1907,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1819,7 +1925,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1836,7 +1943,8 @@
         "useLowerCase": true,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1853,7 +1961,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1870,7 +1979,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1887,7 +1997,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1904,7 +2015,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1921,7 +2033,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": true,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1938,7 +2051,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1955,7 +2069,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1972,7 +2087,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -1989,7 +2105,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2006,7 +2123,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2023,7 +2141,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2040,7 +2159,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2057,7 +2177,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2074,7 +2195,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2091,7 +2213,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2108,7 +2231,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2125,7 +2249,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2142,7 +2267,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2162,7 +2288,8 @@
         "namePrecedence": [
           "abbreviation",
           "name"
-        ]
+        ],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2179,7 +2306,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2196,7 +2324,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2217,7 +2346,8 @@
           "abbreviation",
           "location",
           "environment"
-        ]
+        ],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2240,7 +2370,8 @@
           "location",
           "environment",
           "suffixes"
-        ]
+        ],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2257,7 +2388,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2274,7 +2406,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2291,7 +2424,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2308,7 +2442,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2331,7 +2466,8 @@
           "location",
           "environment",
           "suffixes"
-        ]
+        ],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2348,7 +2484,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2365,7 +2502,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2382,7 +2520,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2399,7 +2538,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2416,7 +2556,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2433,7 +2574,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2450,7 +2592,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2467,7 +2610,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2484,7 +2628,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2501,7 +2646,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2518,7 +2664,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2535,7 +2682,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2552,7 +2700,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2569,7 +2718,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2586,7 +2736,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2603,7 +2754,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2620,7 +2772,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2637,7 +2790,8 @@
         "useLowerCase": false,
         "useSeparator": false,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2654,7 +2808,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2671,7 +2826,8 @@
         "useLowerCase": false,
         "useSeparator": false,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2688,7 +2844,8 @@
         "useLowerCase": false,
         "useSeparator": false,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2705,7 +2862,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2722,7 +2880,8 @@
         "useLowerCase": true,
         "useSeparator": false,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2739,7 +2898,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": true,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2756,7 +2916,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": true,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2773,7 +2934,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": true,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2790,7 +2952,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": true,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2807,7 +2970,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": true,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2824,7 +2988,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": true,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2841,7 +3006,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2858,7 +3024,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2875,7 +3042,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2892,7 +3060,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2909,7 +3078,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2926,7 +3096,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2949,7 +3120,8 @@
           "location",
           "environment",
           "suffixes"
-        ]
+        ],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2969,7 +3141,8 @@
         "namePrecedence": [
           "abbreviation",
           "name"
-        ]
+        ],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -2986,7 +3159,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3006,7 +3180,8 @@
         "namePrecedence": [
           "abbreviation",
           "name"
-        ]
+        ],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3023,7 +3198,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3040,7 +3216,8 @@
         "useLowerCase": true,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3057,7 +3234,8 @@
         "useLowerCase": true,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3074,7 +3252,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3091,7 +3270,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3108,7 +3288,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3125,7 +3306,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3142,7 +3324,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3159,7 +3342,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3176,7 +3360,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3193,7 +3378,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3210,7 +3396,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3227,7 +3414,8 @@
         "useLowerCase": true,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3244,7 +3432,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3261,7 +3450,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3278,7 +3468,8 @@
         "useLowerCase": true,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3295,7 +3486,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3312,7 +3504,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3329,7 +3522,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3349,7 +3543,8 @@
         "namePrecedence": [
           "abbreviation",
           "name"
-        ]
+        ],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3366,7 +3561,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3383,7 +3579,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3400,7 +3597,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3417,7 +3615,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3434,7 +3633,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3451,7 +3651,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3468,7 +3669,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3485,7 +3687,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3502,7 +3705,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3519,7 +3723,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3536,7 +3741,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3553,7 +3759,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3570,7 +3777,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3587,7 +3795,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3604,7 +3813,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3621,7 +3831,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3638,7 +3849,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": true,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3655,7 +3867,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3672,7 +3885,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3689,7 +3903,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3706,7 +3921,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3723,7 +3939,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3740,7 +3957,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3757,7 +3975,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3774,7 +3993,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3791,7 +4011,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3808,7 +4029,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3825,7 +4047,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3842,7 +4065,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3859,7 +4083,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3876,7 +4101,8 @@
         "useLowerCase": false,
         "useSeparator": false,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3893,7 +4119,8 @@
         "useLowerCase": false,
         "useSeparator": false,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3910,7 +4137,8 @@
         "useLowerCase": true,
         "useSeparator": false,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3927,7 +4155,8 @@
         "useLowerCase": true,
         "useSeparator": false,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3944,7 +4173,8 @@
         "useLowerCase": true,
         "useSeparator": false,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3961,7 +4191,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3978,7 +4209,8 @@
         "useLowerCase": true,
         "useSeparator": false,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -3995,7 +4227,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4012,7 +4245,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4029,7 +4263,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4046,7 +4281,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4063,7 +4299,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4080,7 +4317,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4097,7 +4335,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4114,7 +4353,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4131,7 +4371,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4148,7 +4389,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4165,7 +4407,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4182,7 +4425,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4199,7 +4443,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4216,7 +4461,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4233,7 +4479,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4250,7 +4497,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4267,7 +4515,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4284,7 +4533,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4301,7 +4551,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4318,7 +4569,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4335,7 +4587,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4352,7 +4605,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4369,7 +4623,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4386,7 +4641,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4403,7 +4659,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4420,7 +4677,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4437,7 +4695,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4454,7 +4713,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4471,7 +4731,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4494,7 +4755,8 @@
           "location",
           "environment",
           "suffixes"
-        ]
+        ],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4517,7 +4779,8 @@
           "location",
           "environment",
           "suffixes"
-        ]
+        ],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4540,7 +4803,8 @@
           "location",
           "environment",
           "suffixes"
-        ]
+        ],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4563,7 +4827,8 @@
           "location",
           "environment",
           "suffixes"
-        ]
+        ],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4580,7 +4845,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4597,7 +4863,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4614,7 +4881,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4631,7 +4899,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4648,7 +4917,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4665,7 +4935,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4682,7 +4953,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4699,7 +4971,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4716,7 +4989,8 @@
         "useLowerCase": true,
         "useSeparator": false,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4733,7 +5007,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4750,7 +5025,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4767,7 +5043,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4784,7 +5061,8 @@
         "useLowerCase": true,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4801,7 +5079,8 @@
         "useLowerCase": true,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4818,7 +5097,8 @@
         "useLowerCase": true,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4835,7 +5115,8 @@
         "useLowerCase": true,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
@@ -4852,7 +5133,8 @@
         "useLowerCase": false,
         "useSeparator": true,
         "denyDoubleHyphens": false,
-        "namePrecedence": []
+        "namePrecedence": [],
+        "useUpperCase": false
       },
       "deprecated": false,
       "deprecatedBy": "",
