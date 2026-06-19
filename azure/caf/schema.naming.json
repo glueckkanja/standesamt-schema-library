@@ -471,6 +471,60 @@
       "tags": []
     },
     {
+      "resourceType": "azurerm_ai_foundry",
+      "abbreviation": "aif",
+      "minLength": 2,
+      "maxLength": 64,
+      "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-]{0,62}[a-zA-Z0-9]$",
+      "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
+        "useEnvironment": true,
+        "useLowerCase": false,
+        "useSeparator": true,
+        "useUpperCase": false
+      },
+      "deprecated": false,
+      "deprecatedBy": "",
+      "tags": []
+    },
+    {
+      "resourceType": "azurerm_ai_foundry_project",
+      "abbreviation": "proj",
+      "minLength": 2,
+      "maxLength": 64,
+      "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9_.-]{0,63}$",
+      "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
+        "useEnvironment": true,
+        "useLowerCase": false,
+        "useSeparator": true,
+        "useUpperCase": false
+      },
+      "deprecated": false,
+      "deprecatedBy": "",
+      "tags": []
+    },
+    {
+      "resourceType": "azurerm_search_service",
+      "abbreviation": "srch",
+      "minLength": 2,
+      "maxLength": 60,
+      "validationRegex": "^[a-z0-9][a-z0-9]([a-z0-9-]{0,57}[a-z0-9])?$",
+      "configuration": {
+        "denyDoubleHyphens": true,
+        "namePrecedence": [],
+        "useEnvironment": true,
+        "useLowerCase": true,
+        "useSeparator": true,
+        "useUpperCase": false
+      },
+      "deprecated": false,
+      "deprecatedBy": "",
+      "tags": []
+    },
+    {
       "resourceType": "azurerm_capacity_reservation_group",
       "abbreviation": "capresgrp",
       "minLength": 2,
