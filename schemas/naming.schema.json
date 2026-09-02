@@ -1,0 +1,117 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/glueckkanja/standesamt-schema-library/schemas/naming.schema.json",
+  "title": "Azure CAF naming schema (v2)",
+  "description": "Describes azure/caf/schema.naming.json: per-resource-type naming rules (abbreviation, length bounds, validation regex, casing/separator configuration).",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["version", "generatedAt", "resources"],
+  "properties": {
+    "version": {
+      "description": "Format version of this document. Bump together with this schema.",
+      "type": "integer",
+      "const": 2
+    },
+    "generatedAt": {
+      "description": "RFC 3339 timestamp of when the document was generated.",
+      "type": "string",
+      "format": "date-time"
+    },
+    "resources": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/resource" }
+    }
+  },
+  "$defs": {
+    "identifier": {
+      "description": "Terraform-style resource type identifier, e.g. azurerm_storage_account. No whitespace.",
+      "type": "string",
+      "pattern": "^[a-z][a-zA-Z0-9_]*$"
+    },
+    "resource": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "resourceType",
+        "abbreviation",
+        "minLength",
+        "maxLength",
+        "validationRegex",
+        "configuration",
+        "deprecated",
+        "deprecatedBy",
+        "tags"
+      ],
+      "properties": {
+        "resourceType": { "$ref": "#/$defs/identifier" },
+        "abbreviation": {
+          "description": "Short prefix used in generated names. May be empty for generic entries.",
+          "type": "string",
+          "pattern": "^[a-zA-Z0-9_]*$",
+          "maxLength": 20
+        },
+        "minLength": { "type": "integer", "minimum": 1 },
+        "maxLength": { "type": "integer", "minimum": 1 },
+        "validationRegex": {
+          "description": "Regular expression a final name must match. Either empty (no validation) or fully anchored with ^ and $.",
+          "type": "string",
+          "format": "regex",
+          "pattern": "^(\\^.*\\$)?$"
+        },
+        "configuration": { "$ref": "#/$defs/configuration" },
+        "deprecated": { "type": "boolean" },
+        "deprecatedBy": {
+          "description": "Resource type that supersedes this one; empty when not deprecated.",
+          "anyOf": [
+            { "const": "" },
+            { "$ref": "#/$defs/identifier" }
+          ]
+        },
+        "tags": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": { "type": "string", "minLength": 1 }
+        }
+      },
+      "if": { "properties": { "deprecated": { "const": true } } },
+      "then": { "properties": { "deprecatedBy": { "$ref": "#/$defs/identifier" } } },
+      "else": { "properties": { "deprecatedBy": { "const": "" } } }
+    },
+    "configuration": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "denyDoubleHyphens",
+        "namePrecedence",
+        "useEnvironment",
+        "useLowerCase",
+        "useSeparator",
+        "useUpperCase"
+      ],
+      "properties": {
+        "denyDoubleHyphens": { "type": "boolean" },
+        "namePrecedence": {
+          "description": "Order of name components. Empty means the consumer's default order.",
+          "type": "array",
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "enum": ["prefixes", "abbreviation", "name", "environment", "location", "suffixes"]
+          }
+        },
+        "useEnvironment": { "type": "boolean" },
+        "useLowerCase": { "type": "boolean" },
+        "useSeparator": { "type": "boolean" },
+        "useUpperCase": { "type": "boolean" }
+      },
+      "not": {
+        "description": "useLowerCase and useUpperCase are mutually exclusive.",
+        "properties": {
+          "useLowerCase": { "const": true },
+          "useUpperCase": { "const": true }
+        }
+      }
+    }
+  }
+}

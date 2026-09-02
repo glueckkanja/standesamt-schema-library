@@ -1,0 +1,70 @@
+name: Validate schemas
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "azure/caf/*.json"
+      - "schemas/*.json"
+      - ".github/scripts/*.py"
+      - ".github/workflows/validate-schemas.yml"
+  pull_request:
+    paths:
+      - "azure/caf/*.json"
+      - "schemas/*.json"
+      - ".github/scripts/*.py"
+      - ".github/workflows/validate-schemas.yml"
+
+permissions: {}
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  naming:
+    name: azure/caf/schema.naming.json
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Validate against JSON Schema
+        # check-jsonschema is the only third-party dependency; pipx ships on the runner image.
+        run: >-
+          pipx run --spec check-jsonschema==0.38.0
+          check-jsonschema
+          --schemafile schemas/naming.schema.json
+          --verbose
+          azure/caf/schema.naming.json
+
+      - name: Cross-field checks
+        run: python3 .github/scripts/check_naming.py azure/caf/schema.naming.json
+
+  locations:
+    name: azure/caf/schema.locations.json
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Validate against JSON Schema
+        run: >-
+          pipx run --spec check-jsonschema==0.38.0
+          check-jsonschema
+          --schemafile schemas/locations.schema.json
+          --verbose
+          azure/caf/schema.locations.json
+
+      - name: Cross-field checks
+        run: python3 .github/scripts/check_locations.py azure/caf/schema.locations.json
