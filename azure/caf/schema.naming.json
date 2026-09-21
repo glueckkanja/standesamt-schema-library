@@ -597,24 +597,6 @@
       "tags": []
     },
     {
-      "resourceType": "azurerm_cognitive_account",
-      "abbreviation": "cog",
-      "minLength": 2,
-      "maxLength": 64,
-      "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-]{0,63}$",
-      "configuration": {
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
-        "useEnvironment": true,
-        "useLowerCase": false,
-        "useSeparator": true,
-        "useUpperCase": false
-      },
-      "deprecated": false,
-      "deprecatedBy": "",
-      "tags": []
-    },
-    {
       "resourceType": "azurerm_cognitive_deployment",
       "abbreviation": "cog_depl",
       "minLength": 2,
@@ -723,24 +705,6 @@
       "tags": []
     },
     {
-      "resourceType": "azurerm_disk_encryption_set",
-      "abbreviation": "dskencset",
-      "minLength": 2,
-      "maxLength": 64,
-      "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-]{0,63}$",
-      "configuration": {
-        "denyDoubleHyphens": false,
-        "namePrecedence": [],
-        "useEnvironment": true,
-        "useLowerCase": false,
-        "useSeparator": true,
-        "useUpperCase": false
-      },
-      "deprecated": false,
-      "deprecatedBy": "",
-      "tags": []
-    },
-    {
       "resourceType": "azurerm_image",
       "abbreviation": "img",
       "minLength": 1,
@@ -781,7 +745,7 @@
       "abbreviation": "vmss",
       "minLength": 1,
       "maxLength": 64,
-      "validationRegex": "^[^/[]:|<>+=;,?*@&_][^/[]:|<>+=;,?*@&]{0,62}[^/[]:|<>+=;,?*@&.-]$",
+      "validationRegex": "^[^\\/\"\\[\\]:|<>+=;,?*@&_][^\\/\"\\[\\]:|<>+=;,?*@&]{0,62}[^\\/\"\\[\\]:|<>+=;,?*@&.-]$",
       "configuration": {
         "denyDoubleHyphens": false,
         "namePrecedence": [],
@@ -821,7 +785,7 @@
       "configuration": {
         "denyDoubleHyphens": false,
         "namePrecedence": [
-          "abbreviationes",
+          "abbreviation",
           "name",
           "suffixes"
         ],
@@ -839,7 +803,7 @@
       "abbreviation": "vmss",
       "minLength": 1,
       "maxLength": 15,
-      "validationRegex": "^[^/[]:|<>+=;,?*@&_][^/[]:|<>+=;,?*@&]{0,13}[^/[]:|<>+=;,?*@&.-]$",
+      "validationRegex": "^[^\\/\"\\[\\]:|<>+=;,?*@&_][^\\/\"\\[\\]:|<>+=;,?*@&]{0,13}[^\\/\"\\[\\]:|<>+=;,?*@&.-]$",
       "configuration": {
         "denyDoubleHyphens": false,
         "namePrecedence": [],
@@ -875,7 +839,7 @@
       "abbreviation": "vmss",
       "minLength": 1,
       "maxLength": 15,
-      "validationRegex": "^[^/[]:|<>+=;,?*@&_][^/[]:|<>+=;,?*@&]{0,13}[^/[]:|<>+=;,?*@&.-]$",
+      "validationRegex": "^[^\\/\"\\[\\]:|<>+=;,?*@&_][^\\/\"\\[\\]:|<>+=;,?*@&]{0,13}[^\\/\"\\[\\]:|<>+=;,?*@&.-]$",
       "configuration": {
         "denyDoubleHyphens": false,
         "namePrecedence": [],
@@ -4235,7 +4199,7 @@
       "tags": []
     },
     {
-      "resourceType": "azurerm_synapse_sql_pool ",
+      "resourceType": "azurerm_synapse_sql_pool",
       "abbreviation": "sysql",
       "minLength": 1,
       "maxLength": 15,
