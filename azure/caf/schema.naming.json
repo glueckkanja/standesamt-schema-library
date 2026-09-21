@@ -5229,6 +5229,42 @@
       "deprecated": false,
       "deprecatedBy": "",
       "tags": []
+    },
+    {
+      "resourceType": "azurerm_communication_service",
+      "abbreviation": "acs",
+      "minLength": 1,
+      "maxLength": 63,
+      "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-]{0,61}[a-zA-Z0-9]$",
+      "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
+        "useEnvironment": true,
+        "useLowerCase": false,
+        "useSeparator": true,
+        "useUpperCase": false
+      },
+      "deprecated": false,
+      "deprecatedBy": "",
+      "tags": []
+    },
+    {
+      "resourceType": "azurerm_email_communication_service",
+      "abbreviation": "aecs",
+      "minLength": 1,
+      "maxLength": 63,
+      "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-]{0,61}[a-zA-Z0-9]$",
+      "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
+        "useEnvironment": true,
+        "useLowerCase": false,
+        "useSeparator": true,
+        "useUpperCase": false
+      },
+      "deprecated": false,
+      "deprecatedBy": "",
+      "tags": []
     }
   ]
 }
