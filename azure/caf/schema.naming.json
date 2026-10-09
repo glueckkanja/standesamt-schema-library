@@ -5229,6 +5229,132 @@
       "deprecated": false,
       "deprecatedBy": "",
       "tags": []
+    },
+    {
+      "resourceType": "azurerm_management_group_policy_assignment",
+      "abbreviation": "pa",
+      "minLength": 1,
+      "maxLength": 24,
+      "validationRegex": "^[^#<>%&:\\\\?/]{0,23}[^#<>%&:\\\\?/. ]$",
+      "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
+        "useEnvironment": true,
+        "useLowerCase": false,
+        "useSeparator": true,
+        "useUpperCase": false
+      },
+      "deprecated": false,
+      "deprecatedBy": "",
+      "tags": []
+    },
+    {
+      "resourceType": "azurerm_nat_gateway",
+      "abbreviation": "ng",
+      "minLength": 1,
+      "maxLength": 80,
+      "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-._]{0,78}[a-zA-Z0-9_]$",
+      "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
+        "useEnvironment": true,
+        "useLowerCase": false,
+        "useSeparator": true,
+        "useUpperCase": false
+      },
+      "deprecated": false,
+      "deprecatedBy": "",
+      "tags": []
+    },
+    {
+      "resourceType": "azurerm_policy_definition",
+      "abbreviation": "pd",
+      "minLength": 1,
+      "maxLength": 64,
+      "validationRegex": "^[^#<>%&:\\\\?/]{0,63}[^#<>%&:\\\\?/. ]$",
+      "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
+        "useEnvironment": true,
+        "useLowerCase": false,
+        "useSeparator": true,
+        "useUpperCase": false
+      },
+      "deprecated": false,
+      "deprecatedBy": "",
+      "tags": []
+    },
+    {
+      "resourceType": "azurerm_policy_set_definition",
+      "abbreviation": "pset",
+      "minLength": 1,
+      "maxLength": 64,
+      "validationRegex": "^[^#<>%&:\\\\?/]{0,63}[^#<>%&:\\\\?/. ]$",
+      "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
+        "useEnvironment": true,
+        "useLowerCase": false,
+        "useSeparator": true,
+        "useUpperCase": false
+      },
+      "deprecated": false,
+      "deprecatedBy": "",
+      "tags": []
+    },
+    {
+      "resourceType": "azurerm_resource_group_policy_assignment",
+      "abbreviation": "pa",
+      "minLength": 1,
+      "maxLength": 64,
+      "validationRegex": "^[^#<>%&:\\\\?/]{0,63}[^#<>%&:\\\\?/. ]$",
+      "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
+        "useEnvironment": true,
+        "useLowerCase": false,
+        "useSeparator": true,
+        "useUpperCase": false
+      },
+      "deprecated": false,
+      "deprecatedBy": "",
+      "tags": []
+    },
+    {
+      "resourceType": "azurerm_resource_policy_assignment",
+      "abbreviation": "pa",
+      "minLength": 1,
+      "maxLength": 64,
+      "validationRegex": "^[^#<>%&:\\\\?/]{0,63}[^#<>%&:\\\\?/. ]$",
+      "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
+        "useEnvironment": true,
+        "useLowerCase": false,
+        "useSeparator": true,
+        "useUpperCase": false
+      },
+      "deprecated": false,
+      "deprecatedBy": "",
+      "tags": []
+    },
+    {
+      "resourceType": "azurerm_subscription_policy_assignment",
+      "abbreviation": "pa",
+      "minLength": 1,
+      "maxLength": 64,
+      "validationRegex": "^[^#<>%&:\\\\?/]{0,63}[^#<>%&:\\\\?/. ]$",
+      "configuration": {
+        "denyDoubleHyphens": false,
+        "namePrecedence": [],
+        "useEnvironment": true,
+        "useLowerCase": false,
+        "useSeparator": true,
+        "useUpperCase": false
+      },
+      "deprecated": false,
+      "deprecatedBy": "",
+      "tags": []
     }
   ]
 }
