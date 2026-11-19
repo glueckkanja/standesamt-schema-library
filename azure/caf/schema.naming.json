@@ -634,10 +634,10 @@
     },
     {
       "resourceType": "azurerm_disk_encryption_set",
-      "abbreviation": "des",
-      "minLength": 1,
-      "maxLength": 80,
-      "validationRegex": "^[a-zA-Z0-9_]{1,80}$",
+      "abbreviation": "dskencset",
+      "minLength": 2,
+      "maxLength": 64,
+      "validationRegex": "^[a-zA-Z0-9][a-zA-Z0-9-]{0,63}$",
       "configuration": {
         "denyDoubleHyphens": false,
         "namePrecedence": [],
